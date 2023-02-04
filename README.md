@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigerade&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-  <br>
+  
   
 <h3 align="left">Linguagens que Estudo:</h3>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -35,3 +35,11 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 </p>
+
+
+ ##
+  
+  <div> 
+  <a href="https://www.instagram.com/romano.gui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/UUeQKxWZJM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/guilherme-sanches-romano-805070250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
