@@ -5,7 +5,7 @@
 - 😁 Fique a Vontade!!
 - ✉️ Email para Contato: nicholasgerade@gmail.com
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/nigerade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigerade&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
