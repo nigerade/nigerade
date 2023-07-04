@@ -44,6 +44,7 @@
   <div> 
   <a href="https://www.instagram.com/ni_gerade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicholas-gerade-b21a8019b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href ="https://nigerade.github.io/Portfolio2.0/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge" target="_blank"></a>
+  <a href ="https://nigerade.github.io/Portfolio2.0/" target="_blank"><img src="https://img.shields.io/badge/dev.to-23ff8c00?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+  
  
  
