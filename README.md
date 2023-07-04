@@ -4,8 +4,11 @@
 - 😅 Atualmente estudando Javascript 
 - ✉️ Email para Contato: nicholasgerade@gmail.com
 
-<div align="left">
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/toplangs/username=KhaledBadranDev&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+<div class="stats" align="center">
+
+![Nicholas Gerade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicholasGerade&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasGerade&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 
   
