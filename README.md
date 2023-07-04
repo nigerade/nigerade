@@ -14,6 +14,10 @@
 </div>
 
 <br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nigerade&theme=highcontrast&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<br>
     
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
