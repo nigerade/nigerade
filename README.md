@@ -10,7 +10,7 @@
 
   <a href="https://github.com/nigerade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/>
     
 </div>
 
