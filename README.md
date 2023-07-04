@@ -6,9 +6,9 @@
 
 <div class="stats" align="center">
 
-![Nicholas Gerade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicholasGerade&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasGerade&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+  <a href="https://github.com/NicholasGerade">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicholasGerade&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasGerade&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
   
