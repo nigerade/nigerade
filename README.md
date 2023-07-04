@@ -4,7 +4,7 @@
 - 😅 Atualmente estudando Javascript 
 - ✉️ Email para Contato: nicholasgerade@gmail.com
 
-<div class="stats" align="center">
+<div class="stats" align="left">
 
   <a href="https://github.com/nigerade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nigerade&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
