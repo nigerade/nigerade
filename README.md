@@ -10,9 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nigerade&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigerade&layout=compact&langs_count=7&theme=buefy"/>
 </div>
-
-  
-<h3 align="left">Linguagens que Estudo:</h3>
+    
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
