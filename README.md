@@ -9,11 +9,8 @@
 <div class="stats" align="left">
 
   <a href="https://github.com/nigerade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nigerade&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigerade&layout=compact&langs_count=7&theme=buefy"/>
-
-![nigerade's Stats](https://github-readme-stats.vercel.app/api?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-  ![nigerade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
     
 </div>
 
