@@ -47,6 +47,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" style="padding-right:10px;"/> 
   </a>
+
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50" style="padding-right:10px;"/> 
+  </a> 
   
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="50" style="padding-right:10px;"/> 
@@ -59,11 +63,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50" style="padding-right:10px;"/> 
   </a>
-  
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50" style="padding-right:10px;"/> 
-  </a> 
   
 </p>
 
