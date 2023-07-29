@@ -9,7 +9,7 @@
 </div>
 <br>
 
-<div class="stats" align="left">
+<div class="stats" align="center">
 
   <a href="https://github.com/nigerade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)"/>
