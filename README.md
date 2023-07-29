@@ -4,7 +4,6 @@
 ### Fala Dev!! Me chamo Nicholas Gerade!
 
 - 😎 Estudando Análise e Desenvolvimento de Sistemas na Fatec São Paulo
-- 😅 Atualmente estudando Javascript 
 - ✉️ Email para Contato: nicholasgerade@gmail.com
 
 <br>
