@@ -3,8 +3,8 @@
 <div align="center">
   <h1>Fala Dev!! Me chamo Nicholas Gerade!</h1>
   
-  - 😎 Estudando Análise e Desenvolvimento de Sistemas na Fatec São Paulo
-  - ✉️ Email para Contato: nicholasgerade@gmail.com
+  😎 Estudando Análise e Desenvolvimento de Sistemas na Fatec São Paulo
+  ✉️ Email para Contato: nicholasgerade@gmail.com
 </div>
 <br>
 
