@@ -19,6 +19,7 @@
 
 <br>
 
+<div>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
@@ -63,10 +64,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50" style="padding-right:10px;"/> 
   </a>
   
-</p>
+</div>
 
-
- ##
 <br>
 
   <div> 
