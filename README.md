@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=277ff2&height=120&section=header"/>
 
 <div align="center">
-  <h1>Fala Dev!! Me chamo Nicholas Gerade!</h1>
+  <h1>Hello World! Me chamo Nicholas Gerade!</h1>
   
   😎 Estudando Análise e Desenvolvimento de Sistemas na Fatec São Paulo
   <br>
