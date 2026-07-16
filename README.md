@@ -9,6 +9,16 @@
 </div>
 <br>
 
+<div align="center">
+
+### 🏆 Destaque: <a href="https://github.com/nigerade/ensinai-tech-challenge-fiap-5fsdt">Ensinai</a>
+
+Plataforma educacional para professores da rede pública criarem posts com apoio de IA.
+Tech Challenge da pós Full Stack Development (FIAP) — **1º lugar entre 57 grupos** na fase de hackathon, com estratégia de mobile + acessibilidade proposta por mim.
+
+</div>
+<br>
+
 <div class="stats" align="center">
 
   <a href="https://github.com/nigerade">
