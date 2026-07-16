@@ -19,6 +19,16 @@ Tech Challenge da pós Full Stack Development (FIAP) — **1º lugar entre 57 gr
 </div>
 <br>
 
+<div align="center">
+
+### 💼 Experiência Atual: Millenio Serviços Técnicos — InMap WebGIS
+
+Desenvolvimento front-end de uma plataforma **WebGIS** (SPA com **Leaflet.js**) para visualização e gestão de camadas geoespaciais municipais, com consumo de serviços **WMS/WFS (GeoServer)**.
+Atuação em ferramentas de anotação geoespacial avançada (simplificação e suavização de geometrias), controle de permissões por grupo de usuário, hardening de segurança front-end (CSP) e documentação técnica via ADRs.
+
+</div>
+<br>
+
 <div class="stats" align="center">
 
   <a href="https://github.com/nigerade">
