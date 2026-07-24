@@ -1,30 +1,40 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=277ff2&height=120&section=header"/>
 
 <div align="center">
-  <h1>Olá Mundo! Me chamo Nicholas Gerade!</h1>
+  <h1>Hello World! I'm Nicholas Gerade! 👋</h1>
   
-  😎 Estudando Análise e Desenvolvimento de Sistemas na Fatec São Paulo
+  🎓 Studying Systems Analysis and Development at Fatec São Paulo
   <br>
-  ✉️ Email para Contato: nicholasgerade@gmail.com
+  ✉️ Contact Email: nicholasgerade@gmail.com
 </div>
 <br>
 
 <div align="center">
 
-### 🏆 Destaque: <a href="https://github.com/nigerade/ensinai-tech-challenge-fiap-5fsdt">Ensinai</a>
+### 🏆 Featured: <a href="https://github.com/nigerade/ensinai-tech-challenge-fiap-5fsdt">Ensinai</a>
 
-Plataforma educacional para professores da rede pública criarem posts com apoio de IA.
-Tech Challenge da pós Full Stack Development (FIAP) — **1º lugar entre 57 grupos** na fase de hackathon, com estratégia de mobile + acessibilidade proposta por mim.
+Educational platform for public school teachers to create posts with AI support.  
+Tech Challenge for the Full Stack Development postgraduate program (FIAP) — **1st place among 57 groups** in the hackathon phase, led by a mobile + accessibility strategy proposed by me.
 
 </div>
 <br>
 
 <div align="center">
 
-### 💼 Experiência Atual: Millenio Serviços Técnicos — InMap WebGIS
+### 💼 Current Experience: Millenio Serviços Técnicos — InMap WebGIS
 
-Desenvolvimento front-end de uma plataforma **WebGIS** (SPA com **Leaflet.js**) para visualização e gestão de camadas geoespaciais municipais, com consumo de serviços **WMS/WFS (GeoServer)**.
-Atuação em ferramentas de anotação geoespacial avançada (simplificação e suavização de geometrias), controle de permissões por grupo de usuário, hardening de segurança front-end (CSP) e documentação técnica via ADRs.
+Front-end development of a **WebGIS** platform (SPA with **Leaflet.js**) for visualization and management of municipal geospatial layers, consuming **WMS/WFS services (GeoServer)**.  
+Worked on advanced geospatial annotation tools (geometry simplification and smoothing), group-based permission control, front-end security hardening (CSP), and technical documentation via ADRs.
+
+</div>
+<br>
+
+<div align="center">
+
+### 🐞 Open Source Research: <a href="https://github.com/LadybirdBrowser/ladybird">Ladybird Browser</a>
+
+Autonomously investigating the **Ladybird Browser** codebase and issues — an independent, modern web browser built from scratch.  
+Currently exploring engine internals, architecture, and standards compliance to prepare for upcoming upstream contributions.
 
 </div>
 <br>
@@ -32,8 +42,9 @@ Atuação em ferramentas de anotação geoespacial avançada (simplificação e 
 <div class="stats" align="center">
 
   <a href="https://github.com/nigerade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/>
+  </a>
     
 </div>
 
