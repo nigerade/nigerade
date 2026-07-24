@@ -41,17 +41,6 @@ Currently exploring engine internals, architecture, and standards compliance to 
 </div>
 <br>
 
-<div class="stats" align="center">
-
-  <a href="https://github.com/nigerade">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/>
-  </a>
-    
-</div>
-
-<br>
-
 <div align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
