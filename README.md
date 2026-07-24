@@ -3,7 +3,9 @@
 <div align="center">
   <h1>Hello World! I'm Nicholas Gerade! 👋</h1>
   
-  🎓 Studying Systems Analysis and Development at Fatec São Paulo
+  🎓 Systems Analysis and Development at Fatec São Paulo (Completed)
+  <br>
+  🎓 Full Stack Development Postgraduate Program at FIAP (Completed)
   <br>
   ✉️ Contact Email: nicholasgerade@gmail.com
 </div>
@@ -14,7 +16,7 @@
 ### 🏆 Featured: <a href="https://github.com/nigerade/ensinai-tech-challenge-fiap-5fsdt">Ensinai</a>
 
 Educational platform for public school teachers to create posts with AI support.  
-Tech Challenge for the Full Stack Development postgraduate program (FIAP) — **1st place among 57 groups** in the hackathon phase, led by a mobile + accessibility strategy proposed by me.
+Tech Challenge for the Full Stack Development postgraduate program (FIAP - Completed) — **1st place among 57 groups** in the hackathon phase, led by a mobile + accessibility strategy proposed by me.
 
 </div>
 <br>
@@ -42,8 +44,8 @@ Currently exploring engine internals, architecture, and standards compliance to 
 <div class="stats" align="center">
 
   <a href="https://github.com/nigerade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigerade&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/>
   </a>
     
 </div>
